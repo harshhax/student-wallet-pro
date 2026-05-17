@@ -182,4 +182,4 @@ StudentWallet Pro was designed to be demoed in under 90 seconds.
 Every screen has an obvious "wow moment" within 3 seconds of opening.
 
 
-TRy our project: https://student-wallet-pro-1.onrender.com/
+Try our project: https://student-wallet-pro-1.onrender.com/
